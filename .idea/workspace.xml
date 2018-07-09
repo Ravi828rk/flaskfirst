@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58117bb9-c10c-4339-ace6-d86cf118ef18" name="Default" comment="" />
+    <list default="true" id="58117bb9-c10c-4339-ace6-d86cf118ef18" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/flaskblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/flaskblog/templates/home.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/flaskblog/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -129,6 +131,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -153,8 +158,8 @@
         <option value="$PROJECT_DIR$/flaskblog/static/main.css" />
         <option value="$PROJECT_DIR$/flaskblog/templates/layout.html" />
         <option value="$PROJECT_DIR$/flaskblog/routes.py" />
-        <option value="$PROJECT_DIR$/flaskblog/templates/home.html" />
         <option value="$PROJECT_DIR$/flaskblog/templates/user_posts.html" />
+        <option value="$PROJECT_DIR$/flaskblog/templates/home.html" />
       </list>
     </option>
   </component>
@@ -172,6 +177,7 @@
     <option name="width" value="1440" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -333,7 +339,7 @@
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.15076073" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Python Console" order="3" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.16182573" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1416309" />
@@ -565,7 +571,7 @@
     <entry file="file://$PROJECT_DIR$/flaskblog/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
